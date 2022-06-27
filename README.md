@@ -1,6 +1,5 @@
-# Demo
-
-Some description!
+# Git Practice Repo
+Hello all, this repo is for training and Git practicing only!
 
 ## Subheader
-This is a tutorial from YouTube
+This is a tutorial and I'm following a guide!
